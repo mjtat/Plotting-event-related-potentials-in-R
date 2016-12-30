@@ -2,6 +2,8 @@
 
 The following script will take data files output by the *COGNISION(tm)* EEG system developed by [Neuronetrix](http://neuronetrix.com/cognision-i-26.html). The script find the grand average, and plot the resulting event-related potentials (ERPs). The Cognision system is a 7-electrode system used for both clinical and research purposes. In this example, we take the grand average of all the midline electrodes (FZ, CZ, PZ) from five individuals.
 
+There is a python version of this script. You can find it [here](https://github.com/mjtat/Plotting-Event-Related-Potentials-in-Python).
+
 **First, import all the important libraries you need.** Specifically with respect to dialog boxes and data manipulation.
 
 
